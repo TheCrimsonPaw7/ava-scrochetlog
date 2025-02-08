@@ -4,20 +4,20 @@
     font-family: "Sour Gummy", serif;
     font-weight: 400;
     font-style: normal;
-    color:rgb(255, 255, 159);
+    color:rgb(255, 255, 210);
   }
   
 
 .help {
     text-align: center;
     margin-top:100px;
-    background-color:  rgb(255, 255, 159);
+    background-color:  rgb(255, 255, 210);
     height:0px;
   }
 
 
 .body {
-    background-color: rgb(255, 255, 159);
+    background-color: rgb(255, 255, 210);
     
 }
 

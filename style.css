@@ -82,3 +82,93 @@
     background-color:  rgb(255, 255, 159);
     height:0px;
   }
+
+  .cardimg {
+    height:200px;
+    border-radius:20px;
+  }
+
+  .card {
+    font-family: "Sour Gummy", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    margin-top:100px;
+  }
+
+  .seeoptions1 {
+    text-decoration: none;
+
+  }
+
+  .card2 {
+    font-family: "Sour Gummy", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    margin-top:-343px;
+    margin-left:300px;
+  }
+
+  .header3 {
+    font-family: "Sour Gummy", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    margin-top:60px;
+  }
+
+  .formdiv {
+    font-family: "Sour Gummy", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    margin-top:20px;
+    font-size:30px;
+    justify-content:center;
+    display:flex;
+  }
+
+  .formitem {
+    font-family: "Sour Gummy", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:50px;
+  }
+
+  .placeholder {
+    font-family: "Sour Gummy", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    height:100px;
+    font-size:25px;
+  }
+
+  .submitbtn {
+    font-family: "Sour Gummy", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    background-color:lightpink;
+    border-radius:10px;
+    border:0px;
+    height:40px;
+    width:100px;
+    font-size:25px;
+    justify-content:center;
+    display:flex;
+    margin-left:200px;
+  }
+
+
+  .formitem{
+    justify-content:center;
+    display:flex;
+    flex-direction:column;
+    gap:0.5rem;
+    height:70px;
+    width:500px;
+}

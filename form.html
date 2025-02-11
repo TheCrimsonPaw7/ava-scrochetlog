@@ -19,7 +19,8 @@
 </h2>
 
 <div class="formdiv">
-    <form method="POST" netlify name="form">
+    <form method="POST" netlify name="form" data-netlify="true">
+        <input type="hidden" name="form-name" value="form">
 
        <div class="formitem">
 
@@ -72,8 +73,7 @@
        </div>
 
        <div class="formitem">
-           <button class="submitbtn" type="submit" value="Send">submit</button>
-           <input type="submit">
+           <button class="submitbtn" type="submit">submit</button>
        </div>
 
     </form>

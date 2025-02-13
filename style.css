@@ -200,3 +200,26 @@
   background-color:  rgb(255, 255, 159);
   height:0px;
 }
+
+.buttontwo {
+  justify-content: center;
+  display:flex;
+  margin-top:-140px;
+  margin-left:950px;
+}
+
+.cardone {
+  font-family: "Sour Gummy", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+}
+
+.cardtwo {
+  font-family: "Sour Gummy", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  margin-left:300px;
+  margin-top:-343px;
+}

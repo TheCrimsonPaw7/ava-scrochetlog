@@ -94,8 +94,8 @@
     font-weight: 400;
     font-style: normal;
     text-align:center;
-    margin-top:100px;
-  }
+    margin-left:-120px;
+    }
 
   .seeoptions1 {
     text-decoration: none;
@@ -107,8 +107,6 @@
     font-weight: 400;
     font-style: normal;
     text-align:center;
-    margin-top:-343px;
-    margin-left:300px;
   }
 
   .header3 {
@@ -231,8 +229,6 @@
     font-weight: 400;
     font-style: normal;
     text-align:center;
-    margin-top:-344px;
-    margin-left:575px;
 }
 
 .button3 {
@@ -245,4 +241,35 @@
   font-size:20px;
   margin-top:20px;
   margin-right:110px;
+}
+
+.carddivclass {
+  justify-content:center;
+  display:flex;
+  margin-top:120px;
+  margin-left:100px;
+}
+
+
+.carddiv2 {
+  font-family: "Sour Gummy";
+  text-align:center;
+}
+
+.card-body {
+  margin-left:-598px;
+}
+
+.card-body2 {
+  margin-top:-83px;
+  margin-left:-20px;
+}
+
+.card-body3 {
+  margin-top:-83px;
+  margin-left:553px
+}
+
+.cardclasshehe {
+  margin-top:-100px;
 }
